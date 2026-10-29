@@ -1,0 +1,29 @@
+{
+  "id": "eventos",
+  "badge": "✦ CALENDARIO ARCANO ✦",
+  "card_title": "EVENTOS",
+  "card_subtitle": "Torneos e Invasiones del Reino",
+  "accent_color": "#B98EFF",
+  "image": "images/eventos.png",
+  "dialogue_line1": "Descubre los próximos torneos, jefes de evento y festivales del servidor.",
+  "dialogue_line2": "Haz clic para revisar el estado actual de los eventos de NyvexWorld.",
+  "modal": {
+    "header_title": "✦ EVENTOS DEL REINO · NYVEXWORLD ✦",
+    "lines": [
+      "§d✦ §5§lESTADO ACTUAL DE EVENTOS§r",
+      "",
+      "§7⏳ §fNo hay eventos activos de momento en el reino.",
+      "",
+      "§fNuestros escribas y maestros de ceremonias están preparando",
+      "§fnuevas incursiones, torneos PvP y cacerías de jefes mundiales.",
+      "",
+      "§6★ §e¡Mantente atento a este panel y a nuestros anuncios oficiales",
+      "§epara no perderte las recompensas exclusivas del próximo evento!"
+    ],
+    "button": {
+      "enabled": false,
+      "label": "✦ VER CALENDARIO ✦",
+      "url": ""
+    }
+  }
+}

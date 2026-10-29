@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "cards": {
+    "tienda": "tienda.json",
+    "actualizaciones": "actualizaciones.json",
+    "eventos": "eventos.json"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tienda",
+  "badge": "✦ EMPORIO REAL ✦",
+  "card_title": "TIENDA OFICIAL",
+  "card_subtitle": "Rangos, Reliquias y Cosméticos",
+  "accent_color": "#F0C660",
+  "image": "images/tienda.png",
+  "dialogue_line1": "Visita el Emporio Real de NyvexWorld para adquirir rangos y reliquias.",
+  "dialogue_line2": "Haz clic en la tarjeta para abrir el pergamino de la tienda oficial.",
+  "modal": {
+    "header_title": "✦ EMPORIO REAL DE NYVEXWORLD ✦",
+    "lines": [
+      "§6👑 §e§l¡BIENVENIDO AL EMPORIO DEL REINO!§r",
+      "",
+      "§fApoya al servidor y desbloquea recompensas legendarias para tu aventura:",
+      "§a  ✦ §fRangos exclusivos con beneficios y emblemas únicos.",
+      "§a  ✦ §fLlaves místicas, cofres arcanos y reliquias de temporada.",
+      "§a  ✦ §fCosméticos, mascotas, títulos y efectos visuales.",
+      "",
+      "§e⚔ §7Visita la tienda oficial haciendo clic en el enlace o en el botón de abajo:",
+      "§b§nhttps://nyvexworld.tebex.io§r"
+    ],
+    "button": {
+      "enabled": true,
+      "label": "✦ VISITAR TIENDA TEBEX ✦",
+      "url": "https://nyvexworld.tebex.io"
+    }
+  }
+}

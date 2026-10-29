@@ -1,0 +1,31 @@
+{
+  "id": "actualizaciones",
+  "badge": "✦ CRÓNICAS DEL REINO · v1.0.0 ✦",
+  "card_title": "ACTUALIZACIONES",
+  "card_subtitle": "Notas del Parche y Novedades",
+  "accent_color": "#52D69C",
+  "image": "images/actualizaciones.png",
+  "dialogue_line1": "Consulta los últimos cambios, mazmorras y mejoras implementadas en el reino.",
+  "dialogue_line2": "Haz clic para leer el pergamino completo de notas de actualización.",
+  "modal": {
+    "header_title": "✦ REGISTRO DE ACTUALIZACIONES · v1.0.0 ✦",
+    "lines": [
+      "§a✦ §2§lPARCHE DEL SANTUARIO ARCANO (v1.0.0)§r §7— §e29/10/2026",
+      "",
+      "§6⚔ §e§lNuevas Características:§r",
+      "§a  • §fNueva interfaz MMORPG personalizada en menús, opciones y pantallas de carga.",
+      "§a  • §fIntegración completa de gráficos con §bSodium §fe §dIris Shaders§f.",
+      "§a  • §fConexión directa al reino oficial de §6NyvexWorld §fcon estado en tiempo real.",
+      "§a  • §fNuevas zonas de exploración, jefes de mundo y misiones del gremio.",
+      "",
+      "§b❈ §9§lOptimizaciones y Balance:§r",
+      "§7  • §fMejora de rendimiento en generación de chunks y partículas mágicas.",
+      "§7  • §fAjuste de recompensas en mazmorras de nivel alto."
+    ],
+    "button": {
+      "enabled": false,
+      "label": "✦ VER MÁS NOTAS ✦",
+      "url": ""
+    }
+  }
+}
